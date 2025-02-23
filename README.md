@@ -1,6 +1,6 @@
 # Set up reverse proxy on Debian/Ubuntu using Nginx
 
-This is how I got reverse proxy working for me, hope it helps you too.
+This is how I got reverse proxy working for me, hope it helps someone else too :3
 
 ### 1. Install Nginx
 
